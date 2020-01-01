@@ -18,7 +18,7 @@ def convert_ip(value):
 		return socket.inet_ntop(socket.AF_INET, value)
 	except ValueError:
 		return socket.inet_ntop(socket.AF_INET6, value)
-	
+
 def process_pcap(pcap):
 	"""Process packets within the PCAP.
 	:param pcap: Opened PCAP file to be processed
@@ -26,7 +26,7 @@ def process_pcap(pcap):
 	:returns: list of parsed records
 	"""
 	results = list()
-	
+
 	# Iterate through each packet in the pcap
 	for ts, pkt in pcap:
 		try:
@@ -71,7 +71,7 @@ def process_pcap(pcap):
 				for i in range(0, len(data)):
 					element = data[i]
 					int_vals.append(element)
-					
+
 		dhcpfp = ",".join(str(x) for x in int_vals)
 		record = {"source_ip": convert_ip(ip.src),
 				  "destination_ip": convert_ip(ip.dst),
@@ -88,7 +88,7 @@ def main():
 	desc = "A python script for extracting DHCP fingerprints from PCAP files"
 	parser = argparse.ArgumentParser(description=(desc))
 	parser.add_argument("pcap", help="The pcap file to process")
-	
+
 
 	help_text = "Print out as JSON records for downstream parsing"
 	parser.add_argument("-j", "--json", required=False, action="store_true",
@@ -118,4 +118,4 @@ def main():
 
 
 if __name__ == "__main__":
-		main()
+	main()
