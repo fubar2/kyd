@@ -4,3 +4,4 @@ description = KYD creates DHCP client hashes and logs the fingerprints and assoc
     https://github.com/fatemabw/kyd
 tags = dhcp, dhcpfp
 version = 1.0.0
+plugin_dir = .
