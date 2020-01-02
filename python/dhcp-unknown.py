@@ -10,6 +10,7 @@ import argparse
 from collections import defaultdict
 import gzip
 
+OUTFNAME = 'dhcp-db-FBQ'
 
 def getallFPlogs(logpath='/usr/local/zeek/logs'):
 	""" find all subdirs of log and find all like dhcpfp.15:34:54-16:00:00.log.gz 
@@ -32,7 +33,6 @@ def getallFPlogs(logpath='/usr/local/zeek/logs'):
 				dat = [x for x in dat if not x.startswith('#')]
 				dats = [x.split()[8:10] for x in dat if x[7].lower() == "unknown"]
 				sigs += dats
-				print('fn',fn,'dats=',dat)
 	return dict(sigs)  # removes dupes
 
 
@@ -45,13 +45,11 @@ def queryFingerbank(file_dic, key, proxy):
 		+ key
 
 	resp_dic = defaultdict(list)
-	f = open('dhcp-db-FBQ', 'w')
-
 	if 'https' in proxy:
 		proxies = {'https': proxy}
 	else:
 		proxies = {'http': proxy}
-
+	writeme = []
 	for (hash, fp) in file_dic.items():
 		data = '{"dhcp_fingerprint":"' + fp + '"}'
 		resp_dic[hash].append(fp)
@@ -62,6 +60,7 @@ def queryFingerbank(file_dic, key, proxy):
 			tries = 3
 			while tries >= 0:
 				try:
+					newrec = ''
 					tries -= 1
 					if proxy == 'not_set':
 						response = requests.post(url, headers=headers,
@@ -79,19 +78,19 @@ def queryFingerbank(file_dic, key, proxy):
 						resp_dic[hash].append(json_response['device_name'
 								])
 						resp_dic[hash].append(json_response['score'])
-
+					nrec += 1
 					print('\n' + hash)
-					f.write(hash + '\t')
-
+					newrec += '%s\t' % hash
 					for x in [0, 1, 2]:
 						s = str(resp_dic[hash][x]).strip('[]')
 						print('\t' + s)
 						if isinstance(s, bytes):
-							f.write(s.encode('utf-8'))
+							newrec += s.encode('utf-8')
 						else:
-							f.write(s)
-						f.write('\t')
-					f.write('\n')
+							newrec += s
+						newrec += '\t'
+					newrec += '\n'
+					writeme.append(newrec)
 					break
 				except:
 
@@ -114,9 +113,14 @@ def queryFingerbank(file_dic, key, proxy):
 			print ('Oops! an exception has occurred', sys.exc_info()[0])
 			raise
 
-		# finally:
-
-	f.close()
+	# no need to write an empty file if nothing new
+	if len(writeme) > 0:
+		f = open(OUTFNAME, 'w')
+		f.write(''.join(writeme))
+		f.write('\n')
+		f.close()
+	else:
+		print('### No new device dhcp fingerprints found that do not match fingerbank dhcp fingerprints') 
 
 
 def main():
