@@ -19,7 +19,7 @@ export {
         };
    
     # Define location of dhcp-db.txt, put dhcp-db.txt in a location that can get dynamically updated like your intel feeds.
-    global dbfile : string = "dhcp-db.txt" &redef;
+    dbfile : string = "dhcp-db.txt" &redef;
 }
 
 type DHCPFPStorage: record {
