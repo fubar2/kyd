@@ -32,7 +32,7 @@ def getallFPlogs(logpath='/usr/local/zeek/logs'):
 				dat = [x for x in dat if not x.startswith('#')]
 				dats = [x.split()[8:10] for x in dat if x[7].lower() == "unknown"]
 				sigs += dats
-				#print('fn',fn,'dats=',dat)
+				print('fn',fn,'dats=',dat)
 	return dict(sigs)  # removes dupes
 
 
