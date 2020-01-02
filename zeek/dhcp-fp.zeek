@@ -19,7 +19,7 @@ export {
         };
    
     # Define location of dhcp-db.txt, put dhcp-db.txt in a location that can get dynamically updated like your intel feeds.
-    global string: dbfile = "dhcp-db.txt" &redef;
+    global dbfile : string = "dhcp-db.txt" &redef;
 }
 
 type DHCPFPStorage: record {
@@ -51,14 +51,19 @@ event zeek_init()
 event bro_init()
 @endif
 {
-    Input::add_table([$source=dbfile, $name="DHCPDB",
-                      $idx=Idx, $val=Val, $destination=DHCPDB, $mode=Input::STREAM]);
-    Input::remove("DHCPDB");
+    Input::add_table([$source=dbfile, $name="DHCPDBF",
+                      $idx=Idx, $val=Val, $destination=DHCPDB, $mode=Input::REREAD]);
+    
+    Input::remove("DHCPDBF");
     
     # Create the logging stream.
     Log::create_stream(LOG, [$columns=Info, $path="dhcpfp"]);
 }
 
+event Input::end_of_data(name: string, source: string) {
+        # now all data is in the table
+        Log::write( DHCPFP::LOG, DHCPDB);
+}
 
 event dhcp_message(c: connection, is_orig: bool, msg: DHCP::Msg, options: DHCP::Options) &priority=5
 
