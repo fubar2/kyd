@@ -51,10 +51,10 @@ event zeek_init()
 event bro_init()
 @endif
 {
-    Input::add_table([$source=dbfile, $name="DHCPDBF",
-                      $idx=Idx, $val=Val, $destination=DHCPDB, $mode=Input::REREAD]);
+    Input::add_table([$source=dbfile, $name="DHCPDB",
+                      $idx=Idx, $val=Val, $destination=DHCPDB, $mode=Input::MANUAL]);
     
-    Input::remove("DHCPDBF");
+    Input::remove("DHCPDB");
     
     # Create the logging stream.
     Log::create_stream(LOG, [$columns=Info, $path="dhcpfp"]);
