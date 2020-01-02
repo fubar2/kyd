@@ -325,222 +325,222 @@ d165bfca4168f21d39f9692a9d1014c9	1,3,6,12,15,120,242	Video Conferencing/Tandberg
 7640efd95cc17edd9c42701966512588	1,3,4,6,12,15,28,42,43,60	Router, Access Point or Femtocell/Wireless Access Point/Aruba WAP	87
 9b83b0537ee0c5a458c05da8ff8df896	1,2,3,6,12,15,28,42,43,44	Router, Access Point or Femtocell/Wireless Access Point/Ruckus WAP	87
 547183674e5075005cd3abc3d706de98	3,22,23,1,24,33,35,6,15,44,11	Printer or Scanner/Zebra Printer	87
-0460db308a84c60805a1a587fc487503	1,28,3,160,66,4,42,2,6,15	VoIP Device/Polycom VoIP/Polycom Conference IP Phone	87	
-7a9e0b8f3c95b14b48095ce29dfa4efa	1,3,6,12,15,17,23,28,29,31,33,40,41,42,9,7,44,45,46,47	Operating System/Linux OS/SUSE Linux/Novell Desktop	87	
-0393b143018d7651322ce636aa1dd323	1,3,6,15,28,33,43,44,58,59	Monitoring and Testing Device/HP iLO Agent	87	
-415aac222be7cd21bc2e4c12a9cc9776	1,28,3,15,6,12,44,78,79	Printer or Scanner/Xerox Printer	87	
-d93b22f2a26ce324ef512858d6a331a4	1,3,6,12,15,28,40,41,42,119	Operating System/Linux OS/Generic Linux	87	
-02130aa2e588de8e74f7317ad852272b	1,3,6,12,15,28,42,40,44,46	Printer or Scanner/Brother Printer	87	
-75c1aaebcd1c703be383de5dd18289a0	1,3,6,15,44,46	Printer or Scanner/Konica Minolta Printer/Konica Minolta Multifunction Printer	87	
-7615073d769798bac9000e3c2a60c8ba	1,3,6,7,12,15,17,43,60,66,67,175,203	Thin Client/Generic Thin Client	87	
-2b6b05846a22bd9bfb6a987a98f2a170	54,59,83,101,114,61,57,52,50,49,80,89,51,59,255	Printer or Scanner/Lexmark Printer	87	
-384fa6c0b7c34ac0dc469ea4c5f13f22	1,28,15,6,3	Internet of Things (IoT)/PHAST Electronics	87	
-bf4f2f92032d27bc60cbd4d20e50777e	1,3,44,6,7,12,15,22,54,58,59,18,144	Printer or Scanner/HP Printer	87	
-a625fa1de27a56a95b90ff58d99cb5bc	1,3,6,15,43,44,46,47	Router, Access Point or Femtocell/Router/Gemtek Wireless Router	87	
-9be8f83c2048cfbcb2ad16fd95df5251	3,6,15,112,113,78,79,95,252,44,47	Operating System/Apple OS/Mac OS X or macOS/Mac OS X	87	
-4bbdb01f3115faa8d3c88e0d41decf7c	1,6,54,69,42,50,4,3,51,12,116	Switch and Wireless Controller/3Com Switches/3Com 4400 SE Switch	87	
-f636345cea080f1fb510e7c3a69f6e55	1,28,1,3	VoIP Device/Nortel VoIP/Nortel IP Phone	87	
-6ee76da2855a5dd932de9a278c47a103	1,15,3,6,44,46,47,31,33,121,249,43,0,168,112,64	Operating System/Windows OS/Microsoft Windows Kernel 6.x/Microsoft Windows Kernel 6.0	87	
-1c7900b822a4cf67f1534717b24673f9	1,3,6,15,28,33,51,58,59,121	Samsung Android	50	
-843b28c5f7a3056e80f1c940cb440c14	1,28,3,15,6,12,2,42,48,161,162,184,185,163,164,188,189,181,182,190,186,187	Thin Client/Wyse Technology Thin Client	87	
-8dee8bbae755b7118a2f10045e5667f4	1,3,6,12,15,28,40,41,42,44,46,47	Router, Access Point or Femtocell/Router/D-Link Wireless Router	87	
-1ab731fa44876965da26f35061b1daa1	1,3,6,12,15,28,44,46,47,33,249	Operating System/Windows OS/Microsoft Windows Kernel 6.x/Microsoft Windows Kernel 6.0	87	
-1ebed1f7c89fd0125c2a69ec1c309fcb	1,3,6,44,46,47,12,15,17,23,28,29,31,33	Router, Access Point or Femtocell/Router/D-Link Wireless Router	87	
-2c36908444b6672be938e5b516fe473e	1,3,5,6,32,13,15,17,23,28,42,50,51,53,54,56,66,67	Samsung S8500	50	
-e34acfd6b8b9699b3401b540c5b6b1e8	1,3,6,15,44,46,47,137,215	Thin Client/Neoware Capio Windows CE	87	
-0efefd37ad783cd12af365e0f182c24f	1,66,6,15,44,3,67,33,150,43	Router, Access Point or Femtocell/Wireless Access Point/Cisco WAP	87	
-3aa3d309498e0b8911bee164a739f391	1,3,43,44,46,47,6,33,121,249	Router, Access Point or Femtocell/Router/TP-Link Wireless LAN Router	87	
-67b79680e88a63dd139d11830c7425ce	1,3,6,15,28,33	Operating System/Other OS/OS/2 Warp	39	
-ef94aa50665b8e8f810edffc58632c64	1,3,28,6,15,44,46,69,12,81	Printer or Scanner/Xerox Printer	87	
-96f153db323a02faaeabd4b69d0691fd	1,3,6,12,15,28,44	Router, Access Point or Femtocell/Router/Cisco/Linksys Router	87	
-8d144bc30f7296d23b07d843c3dae19f	1,3,6,12,15,28,44,33,249	Router, Access Point or Femtocell/Router/Cisco/Linksys Router	87	
-1a17e1cea20836ead55174c2acbd3b68	1,28,3,43,128,131,144,157,188,191,205,219,223,224,227,230,232,235,238,241,244,247,249,251,254,58,59,66,6,15	VoIP Device/Nortel VoIP/Nortel IP Phone	87	
-e034c70ba2561e846a90e3dbd05a3b39	1,3	Operating System/Windows OS	87	
-85bed46a040f83911d1688fc20ad338f	1,3,6,12,15,4,43,44,60,42,28	Router, Access Point or Femtocell/Wireless Access Point/Aruba WAP	87	
-30cbdd104805d746d915e20e6a07bece	1,28,2,3,15,6,12,43	Router, Access Point or Femtocell/Wireless Access Point/HP Procurve WAP/HP ProCurve Access Point	87	
-5cadd2a4a15266440d75ba27a9ea26a6	6,3,1,15,66,67,13,44,12	HP Printer	50	
-1631725c14cf670618ef741c592cfb5e	1,3,6,15,33,44,46,47,121,249,43	Router, Access Point or Femtocell/Router/D-Link Wireless Router	87	
-6e74be03487c3a9154c0a05e2be8dc82	1,121,33,3,6,15,28,51,58,59,119	Operating System/Google OS/Android OS	87	
-6f74bae5cad31087fa5e3522139c89b0	1,3,28,6,12,15,26,42,242,120	Video Conferencing/Tandberg	73	
-500286974a37eb5e9f499ae84eda5e9d	1,3,42,6,7,15,58,59,44,66,150,151	VoIP Device/Cisco VoIP/Cisco/Linksys SPA series IP Phone	87	
-29c9e3acee49c51b938ca0b43fe1019d	1,3,4,23,67,66	Switch and Wireless Controller/HP ProCurve Switches	87	
-61f3da60e6734e3926c4700b4a6ca502	6,3,1,15,66,67,13,44,12,81	Printer or Scanner/HP Printer	87	
-eced511960251a430afcf15aaa412d3d	3,6,12,15,17,23,28,29,31,33,40,41,42,119	Operating System/Linux OS/Generic Linux	87	
-7daf9f6592561d1767bfdc7d0383aab7	1,3,6,15,28,12,7,9,42,48,49	Audio, Imaging or Video Equipment/Video Equipment (Smart TV, Smart Players, etc.)/Sony TV	87	
-46ee5f48a1c1b98456d7c54c5c678f96	78,79	Network Boot Agent/Novell Netware Client	87	
-c0cbec608fde77b1ca424a816ac0f769	1,3,6,7,12,15,28,40,41,42,225,226,227,228,229,230,231	Router, Access Point or Femtocell/Wireless Access Point/Aerohive WAP	87	
-fb068f7c1f14fabeb2ee04a17b9b7162	6,3,1,15,66,67,13,12,44	Printer or Scanner/Brother Printer	87	
-36f3aa371ad6653edb6ee7c0459becd4	1,3,6,15,28,12,7,9,42,48,49,26	Network Boot Agent/Anaconda (RedHat) Installer	87	
-9d85cd241c5dbc63dca980e5993c4e15	1,28,2,3,15,6,12,121,249,33,252,42	Operating System/Linux OS/Debian-based Linux	87	
-8db89aa8a5764f4ac90ec576a13edd0b	1,3,43,54,60,67,128,129,130,131,132,133,134,135	Network Boot Agent/PXE	87	
-b058c79c8f3a6bd557fc254d78fa9e11	1,121,249,3,6,12,15,28,33,43	N300 Wireless Router	50	
-49d8b4d4301a19d48bd14e062bdef215	1,3,6,12,15,17,28	Thin Client/Generic Thin Client	87	
-f8daa2dd03fec4845614f55a72dee9ba	1,3,6,15,44,46,47,31,33,43	VoIP Device/Clipcomm IP Phone	87	
-7dd9f4e6bd7823eced45d49e6991915d	1,28,3,15,6,12,44	Router, Access Point or Femtocell/Wireless Access Point/Bluesocket WAP/Bluesocket BSC	87	
-7186ad52211b3197376a60ccd49fef22	1,2,3,4,6,15,42,54,160,66,43	VoIP Device/Polycom VoIP/Polycom Conference IP Phone	87	
-b5cd0b6b9dd7d6d116d93fe9436ff73c	1,3,6,7,15,66,151,152,43,128,129,130	VoIP Device/Polycom VoIP/Polycom Conference IP Phone	87	
-7577c2c127ef294ee6df8f167ab02fd6	1,28,3,6,15,44	Router, Access Point or Femtocell/Wireless Access Point/Cisco WAP	87	
-649d32d25b1310e1112b2b5d3befa13a	1,3,58,59,6,15	Audio, Imaging or Video Equipment/Extron/Extron TouchLink Touchpanels	87	
-b483e62383e65a05bec84efa7ceb69d6	1,3,6,12,15,28,44,212	Router, Access Point or Femtocell/Router/Quanta Microsystems Router	87	
-f5fd0ec3afebf24060f19db6e5aa0372	1,28,3,43,128,131,144,157,188,191,205,219,223,232,247,251,58,59	VoIP Device/Nortel VoIP/Nortel IP Phone	87	
-2e54a7a0f24b40bf6eb4c06ad62ca919	1,2,3,4,5,6,11,12,13,15,16,17,18,22,23,28,40,41,42,43,50,51,54,58,59,60,66,67,128,129,130,131,132,133,134,135	Network Boot Agent/PXE	87	
-535152e93ebc04f7306f95729a6d23ae	2,3,6	Xbox 360	50	
-95509399a82c281da7319b7cdc3d4c01	3,6,15,112,113,78,79,95,44,47	Operating System/Apple OS/Mac OS X or macOS/Mac OS X	87	
-8a43225bde8a77248b458ad4e4e00c9f	58,59,1,28,121,33,3,12,119,15,6,40,41,42,26,17,120,9,7,44,45,47	Datacenter Appliance/VMware vCenter Server Appliance	73	
-904f0dadc3cf925103e67f571719e8aa	1,28,3,43,44,46,47,6	Router, Access Point or Femtocell/Router/TP-Link Wireless LAN Router	87	
-d1741146dfa778102c2efb5617360b50	1,3,6,12,15,28,42,125	Samsung SMART-TV	50	
-12e32964a4a9996245076255e1926f30	1,3,5,6,12,15,44,46,47,155,156,157,158,159,160,161,162,163,164,165,166,167,168,186,187	Audio, Imaging or Video Equipment/IP Camera/Tattile IP Camera	87	
-f38236d012acba5b3be983cc9857cd16	66,160,7,54,42,15,6,4,3,2,1	VoIP Device/Spectralink	87	
-31acb722c634a5eb878de548a21dcee9	1,3,6,15,33,42,44,45,46,47,69,70,71,74,78,79	Operating System/Apple OS/Mac OS/Mac OS 9	87	
-2ebe77e577b2f394569fe1db28c40713	1,3,6,12,15,42,43	VoIP Device/Mediatrix VoIP Adapter	94	
-236e83df37a3c463a7972c55cef0ddb1	1,3,6,120	Operating System/Embedded OS/Java ME OS	73	
-9d18268b75fcab6f49a0c995900a19b0	1,15,3,6,44,46,47,31,33,121,249,43,0,192,176,112	Operating System/Windows OS/Microsoft Windows Kernel 6.x/Microsoft Windows Kernel 6.1	87	
-ec52c950dd503bf12edb385498b6aaa7	1,3,6,15,119,95,252,44,46	Operating System/Apple OS	87	
-5ef958528b148b160e7f6935d78236d6	1,3,6,7,12,15,28,40,41,42,225,226,227,228	Router, Access Point or Femtocell/Wireless Access Point/Aerohive WAP	87	
-2d38986fceb3356eedac7d267b43b9c6	1,3,6,42,12,15,31,33,43	Point of Sale Device/PCS Revenue Control Systems	87	
-b2155371e8c2f112e4a530964ab850db	50,1,3,12,15,51,58,59,6,42,69,70	Projector/NEC Projectors	87	
-52417472744907ea79ecbadbafe678cc	1,3,6,15,119,112,113,78,79,95,252	Operating System/Apple OS/Mac OS X or macOS/Mac OS X	87	
-b7e0e3c345907e90833741b4b4794da0	58,59,1,28,121,33,3,12,119,15,6,40,41,42,26	Operating System/Linux OS/Gentoo Linux	87	
-53396bad1f2b8c1b10f73bf5e36c2f40	1,2,3,6,12,15,28,42,43,66,120,125	VoIP Device/Grandstream VoIP	88	
-e1d2a7161f861f3629e6e2b233d7409b	6,3,1,15,66,67,13,43,58,59,42,2,12	Monitoring and Testing Device/APC/APC UPS	87	
-1782b667684970c18a491f29cbfcc688	1,42,4,6,11,3	Datacenter Appliance/Precision time and frequency reference system	87	
-a08c7b70414fc797485298dbc9e150ef	1,15,3,6,44,46,47,31,33,249,43	Operating System/Windows OS/Microsoft Windows kernel 5.x/Microsoft Windows Kernel 5.1,5.2	87	
-0e7e247572fbe0349e930aea480fb6ae	1,33,3,6,15,28,51,58,59,119	Operating System/Google OS/Android OS	87	
-abb25c84fe73fa60eaca2516e14e142f	1,28,3,15,6,12,44,78,79,2,42	Printer or Scanner/Xerox Printer	87	
-e8dd61058f9de98d0cd0da9ae1946da0	1,3,6,15,33,43,44,46,47,121,249	Router, Access Point or Femtocell/Router/TP-Link Wireless LAN Router	87	
-2d384c642fe2a6388ba2e1b22cd21d5f	1,28,2,121,15,6,12,40,41,42,26,119,3,121,249,33,42	Operating System/Linux OS/Debian-based Linux	87	
-2f16c3781ff976d98eff96861c1215a8	1,3,6,12,15,17,28,40,41,42	Nokia	50	
-372295443d05372967f2a18a29a0fc76	1,28,1,3,43,128,131,144,157,188,191,205,219,223,232,247,251,58,59	VoIP Device/Nortel VoIP/Nortel IP Phone	87	
-d5174b480183ef8d99c37894f0d1ad15	85,86	Network Boot Agent/Novell Netware Client	87	
-7efd10f3fdc450d1d16e76864cb3fa7c	1,3,15,6	Playstation 2	50	
-356c0947a2a7d0b1523bd9124cabb900	1,15,3,44,46,47,6	Operating System/Windows OS/Microsoft Windows Kernel 4.x/Microsoft Windows Kernel 4.0	87	
-87003bdce67c065b13e729f4caa7748d	1,3,6,12,15,28,66	VoIP Device/Grandstream VoIP/GrandStream HandyTone 503 ATA	87	
-a1e8259c942611cc3db8f280a7db3f9b	1,28,2,3,15,6,119,12,44,47,26,121,42,121,249,33,252,42	Operating System/Linux OS/Debian-based Linux	87	
-f6f4abef1302d62686219ea250393591	1,2,4,3,12,6,15,44,43,161,162,184,185,186,192,187,181,182,188,190	Thin Client/Wyse Technology Thin Client	87	
-2e7bbb9d24a3d81f92620585f72068fd	1,2,3,6,12,15,17,23,28,29,31,33,40,41,42,43,72	Audio, Imaging or Video Equipment/Video Equipment (Smart TV, Smart Players, etc.)/Amino	87	
-99b18e7cddac662b5a73b659201a8bab	1,3,12,43,17,128,129,130,150	Network Boot Agent/Etherboot/gPXE	87	
-f712b8444d11ba600c6edf735a388ae8	1,3,6,15,42,66,51,150	VoIP Device/Cisco VoIP/Cisco IP Phone	87	
-8b6ddb93a1ab882d04b88de876510b3e	1,28,2,3,15,6,12,4,7,23,26,43,50,51,54,55,60,61,72	Router, Access Point or Femtocell/Router/Gemtek Wireless Router	87	
-9642a934b07f3c535142409d5737f25c	1,28,2,3,15,6,43	Router, Access Point or Femtocell/Wireless Access Point/Aruba WAP	87	
-ce98151e46bdddec5ad01bc2cea4f1ef	1,3,6,15,119,95,252,44,46,47,101	Operating System/Apple OS	87	
-6c9f13601fcd214fd321a32b9cbe2243	6,3,1,15,66,67,13,44,12,43,58,59,42,2	Monitoring and Testing Device/APC/APC-Schneider Uninterruptible Power Supply	87	
-8ee1243f3c15e72fb1b135f896eb1f39	1,2,3,5,6,12,15,19,28,33,40,41,64,65	Operating System/Other OS/Solaris/Solaris 8 (SunOS 5.8)	87	
-d36ccb241c1fed5d812c1feedaa75989	1,28,3	VoIP Device/Nortel VoIP/Nortel IP Phone	87	
-056da8dd4360c7151019a5bcf27adf23	54,51,58,59,1,3,6,15,28,139	VoIP Device/UniData IP Phone	87	
-5d0c9f08551fd4e4072640216c5b9864	1,3,6,12,42,44,51,54,58,59,128,66,120,129,130,131,132,133,134,135,224,138,125,43	VoIP Device/Mitel IP Phone	88	
-9b3c4adefb5dd797173e770db49a3cb6	1,28,3,15,6,12,81,44,46,78,79,116,66,67,2,69,42,58,59,119,252	Printer or Scanner/Xerox Printer	87	
-f66d524cc520c65283d627532514b07c	1,3,6,15,44,46,47	Operating System/Windows OS/Windows Phone OS	83	
-ff6f66931e4983c0c53c2fcd422c72e1	1,66,6,15,44,3,67,12,33,150,43,125	Router, Access Point or Femtocell/Wireless Access Point/Cisco WAP	87	
-95f55b3287ead1a4a889f6bcba94ac1d	1,3,28,58,59,6,15,78,79,44,46,69,66,67,12	Printer or Scanner/Xerox Printer	87	
-47bd43caed4860dfc81383295818371a	1,3,6,10,12,14,15,28,40,41,42,87	Router, Access Point or Femtocell/Router/Zioncom Wireless Router	87	
-f18cdf136219402fd37afcb7b33d3117	1,28,66,6,15,3,35,150	VoIP Device/Cisco VoIP/Cisco IP Phone	87	
-3ef815416f775098fe977004015c6193	85	Network Boot Agent/Novell Netware Client	87	
-43ffcbaa51f7497e90bf1e34dfa96f35	1,3,6,15,12,44	Video Conferencing/Polycom Video Conferencing/Polycom VSX 3000	87	
-1babbc65645e99ae4d6714c74f9043d9	1,121,33,3,28,51,58,59	HTC Android	50	
-8c648a3a5ff9aa4fbc1371f6eb6018d6	3,1,15,44,12	Printer or Scanner/HP Printer	87	
-eea0590f4e15ae33800a86a5c054da18	60,43	Operating System/Apple OS/Mac OS X or macOS/Mac OS X	87	
-c84495c51422c3c79d4fa0b1d32e6dd3	3,1,6,15	Router, Access Point or Femtocell/Router/Netgear Router	87	
-80708b6d63237b86b49b88873508f400	1,3,15,6,44,46,47	Operating System/Windows OS/Microsoft Windows Kernel 4.x/Microsoft Windows Kernel 4.0	87	
-412a88ade3f2a0c592afee514fe182cf	1,28,3,121,26,12,15,119,6,40,41,87,85,86,44,45,46,47,42,121,249,33,252,42	Operating System/Linux OS/Debian-based Linux	87	
-f317d57d5822b8c840b606bda3148498	1,3,6,12,15,26,28,40,41,42,43	VoIP Device/NetCODEC Co VoIP	87	
-5128f4c4661acd4d27dff1ab26cd4f08	1,15,3,6,44,46,47,31,33,43,77	Operating System/Windows OS/Microsoft Windows Kernel 4.x/Microsoft Windows Kernel 4.90	87	
-bf69b863a78c82f19c9536879c517e86	6,3,1,15,12,42	Samsung Android	50	
-d9bc916ae5f33fd9fc337c704061c55a	1,3,12,43	Network Boot Agent/Etherboot/Sun Blade 100	87	
-bcdcadd6ba99dde710b1cc24ff0aebb6	58,59,1,28,121,33,3,12,119,15,6,40,41,42,26,17,120	VoIP Device/Biamp devices	57	
-82ea225d3d3c9dd3a4801f92d2bb25a1	1,3,6,15,7,44,51,54,58,59,12,69	Hardware Manufacturer/SEH COMPUTERTECHNIK GMBH	87	
-6384bfdfdcea889294dea8e37a2a8d9a	1,3,6,12,15,17,23,28,29,31,33,40,41,42,44	Storage Device/Synology NAS	87	
-6035b6dcb4637d7c32d735255ee36e91	1,3,15,6,44	Printer or Scanner/Kyocera Printer	87	
-1b6e1dc8e520125cf3c0cb192302846f	1,2,3,6,12,15,28,42,43,66,125	VoIP Device/Grandstream VoIP	87	
-4857fe0b7f178863b502a39de6f861af	1,28,160,66,43,3,4,42,2,6,15	VoIP Device/Polycom VoIP/Polycom Conference IP Phone	87	
-560ecc1dc513b437a62e473db0f230e0	3,6	Gaming Console/Microsoft Gaming Console/Xbox	87	
-120c61da395411f35eb418525fbbfc49	1,28,156,4,3,66,42	VoIP Device/ShoreTel IP Phone	87	
-fb7612836cf15b77145b541eef4bfc4d	1,3,42,6,7,15,58,59,44,66	VoIP Device/Sipura VoIP Adaptor	87	
-610d451bb13b2767fbe65de65f870a18	1,6,15,44,3,33	Switch and Wireless Controller/Cisco Switches/Cisco Catalyst 35xx	87	
-7ecb676302cd740699e046de33687302	1,15,3,6,44,46,47,31,33,121,249,43,0,176,112	Operating System/Windows OS/Microsoft Windows Kernel 6.x/Microsoft Windows Kernel 6.1	87	
-070c3cf1a676ffe467159f3cb75f8184	1,150,3,6,15,35,66	Operating System/Google OS/Android OS	87	
-37e151d43203def5aa5946fb049df32f	1,3,4,6,12,15,17,23,28,29,31,33,40,41,42	Audio, Imaging or Video Equipment/IP Camera/ACTi Corporation IP Camera	87	
-90cb86802a18db0c49a58b58c63edef0	1,15,3,6,44,46,47,1,3,6,15,44,46,47	Router, Access Point or Femtocell/Router/Cisco/Linksys Router	87	
-09ee4037bb4e6dfd4a167c2938e19364	1,3,42,6,7,15,58,59,44,66,150,2,151	VoIP Device/Cisco VoIP/Cisco/Linksys SPA series IP Phone	87	
-4d4ce239e75304e47fecd82c48801fcd	1,121,3,6,12,15,28,33,43	Router, Access Point or Femtocell/Router/Netgear Router	87	
-41bd65643374639d0a9cbeb920bba2de	6,3,1	Router, Access Point or Femtocell/Router/Cisco/Linksys Router	87	
-e4b4e1563f0179ce850f54919278966e	1,3,6,15,51,58,59,255	Router, Access Point or Femtocell/Router/Freebox Wireless Router	87	
-60189fa092724f0650e7d1a551d7d177	6,3,1,15,44,12	Printer or Scanner/HP Printer	87	
-e3031186cde5a9c2abf3cd19dce5d625	1,33,3,6,28,51,58,59	Operating System/Google OS/Android OS	87	
-ea2154e1a4be1ba8cc862d49ae188adf	1,121,33,3,6,12,15,28,51,58,59,119	Operating System/Google OS/Android OS	87	
-a287a44cb2c343f196e0daed069d734f	1,3,6,58,59,44,46,47	Printer or Scanner/Tally Printer	87	
-f52dbb73a7fd6cb178be99c466c2aed8	1,28,1,3,6,42,66	VoIP Device/Aastra VoIP	87	
-ef169c6aa735f58759b8ad48b813f47e	1,3,3,5,6,11,12,13,15,16,17,18,43,54,60,67,128,129,130,131,132,133,134,135	Network Boot Agent/PXE	87	
-607caf801b644c3bd922db0e9865138e	1,3,4,6,15	Internet of Things (IoT)/Alps Electric	87	
-1319fb44b0613dc4ce822c4357b47044	1,3,42,6,7,15,58,59,66	VoIP Device/Linksys PAP VoIP	87	
-750e824b315765490e73cf8adf96db83	1,121,33,3,6,12,15,26,28,51,54,58,59,119,252	Operating System/Google OS/Chrome OS	87	
-f49a8ea3c9d6a04f4c2f523c7ff6d380	1,121,33,3,6,15,28,44,51,58,59,119	Phone, Tablet or Wearable/Generic Android/Motorola Android	87	
-5026b355656f9ce34620b751b27301e8	1,15,3,6,44,46,47,31,33,121,249,252,43	Operating System/Windows OS	87	
-1f5e2ddd680d2a6b37b33ef295d6718b	1,15,3,6,44,46,47,31,33,43	Operating System/Windows OS/Microsoft Windows kernel 5.x/Microsoft Windows Kernel 5.0	87	
-c0ba1956c8a39663bbca1a96eb391699	1,28,3,15,6,12,44,78,79,66,67	Printer or Scanner/Xerox Printer	87	
-98a6a3042aeae3007a833ba32bb62b94	1,28,6,5,3,44,15	Router, Access Point or Femtocell/Wireless Access Point/Trendnet WAP/Trendnet Access Point	87	
-f6f9310f8088ea378b7e3cdba3fb5c75	1,28,3,99,43,128,131,144,157,188,191,205,219,223,224,227,230,232,235,238,241,244,247,249,251,254,58,59,66,6,15	VoIP Device/Nortel VoIP/Nortel IP Phone	87	
-71f173e75832a07b526c39f9ee79093e	1,3,6,15,70,69	Point of Sale Device/Moneris HiSpeed 3100IP	87	
-5dd6695066a733b15c14e7727e0504e4	1,6,15,44,3,7,33,150,43	Router, Access Point or Femtocell/Wireless Access Point/Cisco WAP	87	
-a3af1cfc7f3d84757bfd89502dc842ac	1,3,4,42,6,7,12,15,26,44,51,54,58,59,190	Printer or Scanner/Lexmark Printer	87	
-179e34c753bf3c742c07e9d8d22c6ece	1,3,121,6,12,15,28,50,33	Router, Access Point or Femtocell/Router/Belkin Wireless Router	87	
-a8342db66dcab3209f1b5bb48d40c78d	1,28,3,43,128,131,144,157,188,191,205,219,223,232,247,251,58,59,66,6,15	VoIP Device/Nortel VoIP/Nortel IP Phone	87	
-b65635778cde45b83e18c21ad7efdbee	3,6,26,28,58,59	Gaming Console/Nintendo Gaming Console/Nintendo Gamecube	87	
-6a3b43006c293765119851f8fb24b10c	1,3,6,15,44,47	Printer or Scanner/Canon Printer	87	
-ea5dbe3d3b68c710bb45fecd0484e42c	15,3,6,44,46,47,31,33,43	Operating System/Windows OS/Microsoft Windows kernel 5.x/Microsoft Windows Kernel 5.0	87	
-7e1142cabda50c38346a8fd02e6d091b	78,79,85	Network Boot Agent/Novell Netware Client	87	
-501c3e5efb01269235a0218415bbcd61	1,33,3,6,15,26,28,51,58,59	Operating System/Google OS/Android OS	87	
-8ebfc38441463ae19afd0760e614f471	15,3,6,44,46,47,31,33,43,252	Operating System/Windows OS/Microsoft Windows kernel 5.x/Microsoft Windows Kernel 5.0	87	
-d81ebf5cd834bfbe57d8618bcd1c46e6	6,1,3,12,44,15	Video Conferencing/Polycom Video Conferencing/Polycom ViewStation	87	
-240ab504d4ba6808c9e284b5963f3e9d	1,2,3,4,6,7,12,15,28,42,66,67,43,120	VoIP Device/Yealink VoIP	88	
-c96325987eb2f097e692967507893402	1,3,6,42,43,2,66	VoIP Device/Aastra VoIP	87	
-4c1b2e0e0dacf5e0fcc3279bd00f5e90	15,3,6,44,46,47,31,33,249,43,252,12	Operating System/Windows OS/Microsoft Windows kernel 5.x/Microsoft Windows Kernel 5.1,5.2	87	
-bcd53c324e6ef0b56f5a33ede6aa2e15	1,3,67,43,60	Network Boot Agent/Apple Netboot	87	
-474846f826c15e1695321d0112186825	1,28,66,3,4,42,2,6,15	VoIP Device/Polycom VoIP/Polycom SoundPoint IP/Polycom SoundPoint IP 430	87	
-3cf3c8556a99ede5bfe455e383ceeaa5	1,3,6,15,28	Hotway LanDrive	50	
-9e60ff3c17459791c30853469ed2a3e2	51,1,3,58,59,12,44,54,6,15,144	Printer or Scanner/Xerox Printer	87	
-5246276c06be9f4731c4afd413b43d9e	6,3,1,15,66,67,13,12	Printer or Scanner/HP Printer	87	
-52de03af47671e7f69bd3b81bbbb4655	1,66,6,3,67,12,150	Switch and Wireless Controller/Cisco Switches/Cisco Catalyst 29xx	87	
-b422effb8fe4450ebd9ea00fb6b0e2f5	1,15,3,6,44,46,47,43,77,252	Operating System/Windows OS/Microsoft Windows Kernel 4.x/Microsoft Windows Kernel 4.10	87	
-2600c1dffe2246b6c99c53fd85ab74a1	1,28,54,58,59,60,43,3	VoIP Device/Alcatel IP Phone/Alcatel Advanced Reflex IP Phone	87	
-92db395887b52bf6a12e48962ebe5767	1,3,6,15,67,43,60	Operating System/Apple OS	87	
-5bd3c198753efaf887b913988d96129c	1,28,2,3,15,6,12,40,41	Operating System/Linux OS/SUSE Linux/Novell Desktop	87	
-f10d1ad0c054452d0b6c190405c5b7ad	1,28,3,43,128,131,144,157,188,191,205,219,223,224,227,230,232,235,238,241,244,247,249,251,254,58,59,66	VoIP Device/Nortel VoIP/Nortel IP Phone	87	
-e54c326dffda1ce600a4fdb7b860821f	3,1,6,12,15,67,66,43	VoIP Device/Sunrocket VoIP Gizmo	87	
-db2179ac0fd92f683be3929bc588ea63	1,15,3,6,44,46,47,31,33,121,249,43,0,128,64	Operating System/Windows OS/Microsoft Windows Kernel 6.x/Microsoft Windows Kernel 6.0	87	
-9fe07f8dac53006ae466d8b166af00df	79,78	Network Boot Agent/Novell Netware Client	87	
-8193b413c72fe24c54164273b9284eb4	6,3,1,15,66,67,13,44,12,81,252	Printer or Scanner/HP Printer	87	
-8e9678987e153c33946b9a4799f6b960	1,121,33,3,6,12,15,28,42,51,54,58,59,119	Operating System/Linux OS/Generic Linux	87	
-39c10a5965989e867a6c844c0cf2c933	1,3,6,15,44,46,47,137,215,224,226	Thin Client/Neoware Capio Windows CE	87	
-128c5415f12642e1ebd9069e0240f5ac	1,28,2,121,15,6,12,40,41,42,26,119,3,121,249,252,42	Operating System/Linux OS/RedHat/Fedora-based Linux/Fedora/Fedora 15 or 16 based distro	87	
-d79d7e585f563526303eb23e3fcdd8c6	1,3,28,6,15	Gaming Console/Sony Gaming Console/Playstation/Playstation 3 or Playstation Portable (PSP)	87	
-756dedfa6418b44fd4d75eab28633903	1,249,3,6,12,15,28,33,40,41,42,44	Router, Access Point or Femtocell/Router/Trendnet Wireless Router	87	
-c5eee0dd497045c110852cb7b6fa753e	1,3,6,12,42,44,51,54,58,59,128,66,120,129,130,131,132,133,134,135,224,138,125,43,225,226	VoIP Device/Mitel IP Phone	88	
-c9d0f3c75aab4a5fd651396f19695536	1,3,6,15,112,113,78,79	Operating System/Apple OS/Mac OS X or macOS/Mac OS X	87	
-1154651b76bbca7528e891d016f285d0	85,86,87	Network Boot Agent/Novell Netware Client	87	
-181be29e0dc8e72cc88c0e2c16dcaa25	1,15,3,6	Phone, Tablet or Wearable/Apple Mobile Device/Apple iPod	87	
-120c4b86573fa69b00d4964c476fd9ea	1,3,4,43	Switch and Wireless Controller/HP ProCurve Switches	87	
-6de0791c5bea2e7e731d870a38ee7484	1,28,2,3,15,6,12,40,41,42,26	Operating System/Linux OS/RedHat/Fedora-based Linux	87	
-900a8b4bff9d01f70b8251ca79df7a7e	1,3,5,6,49,13,15,17,23,28,42,50,51,53,54,56,66,67	Samsung S8500	50	
-ce3023d99364ab9eab8a859e3c11de1c	1,28,2,3,15,6,12,46,44	Operating System/Linux OS/Linspire	87	
-70c995f77f0cc2c4d4d9e668d5eb61c3	1,3,6,15,28,44,47	Printer or Scanner/Ricoh Printer/Ricoh Multifunction Printer	87	
-5fafd12fdcc66083453eb4b9662ef260	1,3,44,6,7,12,15,22,54,58,59,69,18,43,119,81,153,154	Printer or Scanner/HP Printer	87	
-8848fb2507c53c29cb3ea21945c78851	1,3,6,12,15,23,28,29,31,33,40,41,42,9,7,200,44	Operating System/Linux OS/Generic Linux	87	
-82754f446d62c6084f2884fb8a08013f	1,3,6,15,23,51,54	Audio, Imaging or Video Equipment/Motorola NIM100	87	
-8c3ba7572dfa8b528fb6da9bf697b1c0	1,3,6,12,15,28,42,40	Printer or Scanner/Epson Printer	87	
-95ba59cd30a82c55cf80a08ce8913723	1,28,2,3,15,6	Barnes and Noble Nook (eReader)	50	
-ff2c3ed9d86555e5da986d6b2e1b9cea	1,15,3,6,44,46,47,66,1,3,6,15,44,46,47	Router, Access Point or Femtocell/Router/Cisco/Linksys Router	87	
-5283df9f4f74046fbdecbb336d949f2d	1,2,3,6,12,15,26,28,85,86,87,88,44,45,46,47,70,69,78,79	Printer or Scanner/Xerox Printer	87	
-84e7a01b19614377e492037697763b97	1,28,2,3,15,6,12,44,47	Operating System/Linux OS/Debian-based Linux	87	
-6f52e2e10dda39249c323b624c10cac7	15,3,6,44,46,47,31,33,249,43,252	Operating System/Windows OS/Microsoft Windows kernel 5.x/Microsoft Windows Kernel 5.1,5.2	87	
-81c6dbe08aa8108bc53861f3173760c3	1,33,3,6,12,15,28,42,51,58,59,119	Operating System/Google OS/Android OS	87	
-4b9223500d4718ca1db44c1ed038fb6c	28,2,3,15,6,12,40,41,42	Operating System/Linux OS/RedHat/Fedora-based Linux	87	
-8d51fdfb93ad30bdf7f2ed5fd0776041	1,3,6,15,66,69,43,176	VoIP Device/Avaya IP Phone	87	
-9f96da28067889e6af2fc153aaa2cb77	1,28,2,121,15,6,12,40,41,42,26,119,3,121,249,42	Operating System/Linux OS/RedHat/Fedora-based Linux/RHEL 6.4 or Centos6.4	87	
-3469b3a9a87612c02c145b9c149dae9d	1,3,44,6,7,12,15,22,54,58,59,69,18,144,119	Printer or Scanner/HP Printer	87	
-44732e1c8c0d27e4edde8ef6a956d42d	1,3,6,15,12,69,70,88,42	Monitoring and Testing Device/APC/NetBotz WallBotz 400C	87	
-94e012fde4dc733f96d9620627791941	1,3,6,12,15,28,33,51,58,59,119,121	Operating System/Google OS/Android OS	87	
-a09f97325d185b4313f0e598624e513c	1,3,6,12,15,17,23,28,29,31,33,40,41,42,119	Operating System/Linux OS/Gentoo Linux	87	
-5831bce2248e5970c993adb9260eec96	1,3,66,67,54,129,150,131,132,6,15,100	Switch and Wireless Controller/Cisco Switches/Cisco Small Business	87	
+0460db308a84c60805a1a587fc487503	1,28,3,160,66,4,42,2,6,15	VoIP Device/Polycom VoIP/Polycom Conference IP Phone	87
+7a9e0b8f3c95b14b48095ce29dfa4efa	1,3,6,12,15,17,23,28,29,31,33,40,41,42,9,7,44,45,46,47	Operating System/Linux OS/SUSE Linux/Novell Desktop	87
+0393b143018d7651322ce636aa1dd323	1,3,6,15,28,33,43,44,58,59	Monitoring and Testing Device/HP iLO Agent	87
+415aac222be7cd21bc2e4c12a9cc9776	1,28,3,15,6,12,44,78,79	Printer or Scanner/Xerox Printer	87
+d93b22f2a26ce324ef512858d6a331a4	1,3,6,12,15,28,40,41,42,119	Operating System/Linux OS/Generic Linux	87
+02130aa2e588de8e74f7317ad852272b	1,3,6,12,15,28,42,40,44,46	Printer or Scanner/Brother Printer	87
+75c1aaebcd1c703be383de5dd18289a0	1,3,6,15,44,46	Printer or Scanner/Konica Minolta Printer/Konica Minolta Multifunction Printer	87
+7615073d769798bac9000e3c2a60c8ba	1,3,6,7,12,15,17,43,60,66,67,175,203	Thin Client/Generic Thin Client	87
+2b6b05846a22bd9bfb6a987a98f2a170	54,59,83,101,114,61,57,52,50,49,80,89,51,59,255	Printer or Scanner/Lexmark Printer	87
+384fa6c0b7c34ac0dc469ea4c5f13f22	1,28,15,6,3	Internet of Things (IoT)/PHAST Electronics	87
+bf4f2f92032d27bc60cbd4d20e50777e	1,3,44,6,7,12,15,22,54,58,59,18,144	Printer or Scanner/HP Printer	87
+a625fa1de27a56a95b90ff58d99cb5bc	1,3,6,15,43,44,46,47	Router, Access Point or Femtocell/Router/Gemtek Wireless Router	87
+9be8f83c2048cfbcb2ad16fd95df5251	3,6,15,112,113,78,79,95,252,44,47	Operating System/Apple OS/Mac OS X or macOS/Mac OS X	87
+4bbdb01f3115faa8d3c88e0d41decf7c	1,6,54,69,42,50,4,3,51,12,116	Switch and Wireless Controller/3Com Switches/3Com 4400 SE Switch	87
+f636345cea080f1fb510e7c3a69f6e55	1,28,1,3	VoIP Device/Nortel VoIP/Nortel IP Phone	87
+6ee76da2855a5dd932de9a278c47a103	1,15,3,6,44,46,47,31,33,121,249,43,0,168,112,64	Operating System/Windows OS/Microsoft Windows Kernel 6.x/Microsoft Windows Kernel 6.0	87
+1c7900b822a4cf67f1534717b24673f9	1,3,6,15,28,33,51,58,59,121	Samsung Android	50
+843b28c5f7a3056e80f1c940cb440c14	1,28,3,15,6,12,2,42,48,161,162,184,185,163,164,188,189,181,182,190,186,187	Thin Client/Wyse Technology Thin Client	87
+8dee8bbae755b7118a2f10045e5667f4	1,3,6,12,15,28,40,41,42,44,46,47	Router, Access Point or Femtocell/Router/D-Link Wireless Router	87
+1ab731fa44876965da26f35061b1daa1	1,3,6,12,15,28,44,46,47,33,249	Operating System/Windows OS/Microsoft Windows Kernel 6.x/Microsoft Windows Kernel 6.0	87
+1ebed1f7c89fd0125c2a69ec1c309fcb	1,3,6,44,46,47,12,15,17,23,28,29,31,33	Router, Access Point or Femtocell/Router/D-Link Wireless Router	87
+2c36908444b6672be938e5b516fe473e	1,3,5,6,32,13,15,17,23,28,42,50,51,53,54,56,66,67	Samsung S8500	50
+e34acfd6b8b9699b3401b540c5b6b1e8	1,3,6,15,44,46,47,137,215	Thin Client/Neoware Capio Windows CE	87
+0efefd37ad783cd12af365e0f182c24f	1,66,6,15,44,3,67,33,150,43	Router, Access Point or Femtocell/Wireless Access Point/Cisco WAP	87
+3aa3d309498e0b8911bee164a739f391	1,3,43,44,46,47,6,33,121,249	Router, Access Point or Femtocell/Router/TP-Link Wireless LAN Router	87
+67b79680e88a63dd139d11830c7425ce	1,3,6,15,28,33	Operating System/Other OS/OS/2 Warp	39
+ef94aa50665b8e8f810edffc58632c64	1,3,28,6,15,44,46,69,12,81	Printer or Scanner/Xerox Printer	87
+96f153db323a02faaeabd4b69d0691fd	1,3,6,12,15,28,44	Router, Access Point or Femtocell/Router/Cisco/Linksys Router	87
+8d144bc30f7296d23b07d843c3dae19f	1,3,6,12,15,28,44,33,249	Router, Access Point or Femtocell/Router/Cisco/Linksys Router	87
+1a17e1cea20836ead55174c2acbd3b68	1,28,3,43,128,131,144,157,188,191,205,219,223,224,227,230,232,235,238,241,244,247,249,251,254,58,59,66,6,15	VoIP Device/Nortel VoIP/Nortel IP Phone	87
+e034c70ba2561e846a90e3dbd05a3b39	1,3	Operating System/Windows OS	87
+85bed46a040f83911d1688fc20ad338f	1,3,6,12,15,4,43,44,60,42,28	Router, Access Point or Femtocell/Wireless Access Point/Aruba WAP	87
+30cbdd104805d746d915e20e6a07bece	1,28,2,3,15,6,12,43	Router, Access Point or Femtocell/Wireless Access Point/HP Procurve WAP/HP ProCurve Access Point	87
+5cadd2a4a15266440d75ba27a9ea26a6	6,3,1,15,66,67,13,44,12	HP Printer	50
+1631725c14cf670618ef741c592cfb5e	1,3,6,15,33,44,46,47,121,249,43	Router, Access Point or Femtocell/Router/D-Link Wireless Router	87
+6e74be03487c3a9154c0a05e2be8dc82	1,121,33,3,6,15,28,51,58,59,119	Operating System/Google OS/Android OS	87
+6f74bae5cad31087fa5e3522139c89b0	1,3,28,6,12,15,26,42,242,120	Video Conferencing/Tandberg	73
+500286974a37eb5e9f499ae84eda5e9d	1,3,42,6,7,15,58,59,44,66,150,151	VoIP Device/Cisco VoIP/Cisco/Linksys SPA series IP Phone	87
+29c9e3acee49c51b938ca0b43fe1019d	1,3,4,23,67,66	Switch and Wireless Controller/HP ProCurve Switches	87
+61f3da60e6734e3926c4700b4a6ca502	6,3,1,15,66,67,13,44,12,81	Printer or Scanner/HP Printer	87
+eced511960251a430afcf15aaa412d3d	3,6,12,15,17,23,28,29,31,33,40,41,42,119	Operating System/Linux OS/Generic Linux	87
+7daf9f6592561d1767bfdc7d0383aab7	1,3,6,15,28,12,7,9,42,48,49	Audio, Imaging or Video Equipment/Video Equipment (Smart TV, Smart Players, etc.)/Sony TV	87
+46ee5f48a1c1b98456d7c54c5c678f96	78,79	Network Boot Agent/Novell Netware Client	87
+c0cbec608fde77b1ca424a816ac0f769	1,3,6,7,12,15,28,40,41,42,225,226,227,228,229,230,231	Router, Access Point or Femtocell/Wireless Access Point/Aerohive WAP	87
+fb068f7c1f14fabeb2ee04a17b9b7162	6,3,1,15,66,67,13,12,44	Printer or Scanner/Brother Printer	87
+36f3aa371ad6653edb6ee7c0459becd4	1,3,6,15,28,12,7,9,42,48,49,26	Network Boot Agent/Anaconda (RedHat) Installer	87
+9d85cd241c5dbc63dca980e5993c4e15	1,28,2,3,15,6,12,121,249,33,252,42	Operating System/Linux OS/Debian-based Linux	87
+8db89aa8a5764f4ac90ec576a13edd0b	1,3,43,54,60,67,128,129,130,131,132,133,134,135	Network Boot Agent/PXE	87
+b058c79c8f3a6bd557fc254d78fa9e11	1,121,249,3,6,12,15,28,33,43	N300 Wireless Router	50
+49d8b4d4301a19d48bd14e062bdef215	1,3,6,12,15,17,28	Thin Client/Generic Thin Client	87
+f8daa2dd03fec4845614f55a72dee9ba	1,3,6,15,44,46,47,31,33,43	VoIP Device/Clipcomm IP Phone	87
+7dd9f4e6bd7823eced45d49e6991915d	1,28,3,15,6,12,44	Router, Access Point or Femtocell/Wireless Access Point/Bluesocket WAP/Bluesocket BSC	87
+7186ad52211b3197376a60ccd49fef22	1,2,3,4,6,15,42,54,160,66,43	VoIP Device/Polycom VoIP/Polycom Conference IP Phone	87
+b5cd0b6b9dd7d6d116d93fe9436ff73c	1,3,6,7,15,66,151,152,43,128,129,130	VoIP Device/Polycom VoIP/Polycom Conference IP Phone	87
+7577c2c127ef294ee6df8f167ab02fd6	1,28,3,6,15,44	Router, Access Point or Femtocell/Wireless Access Point/Cisco WAP	87
+649d32d25b1310e1112b2b5d3befa13a	1,3,58,59,6,15	Audio, Imaging or Video Equipment/Extron/Extron TouchLink Touchpanels	87
+b483e62383e65a05bec84efa7ceb69d6	1,3,6,12,15,28,44,212	Router, Access Point or Femtocell/Router/Quanta Microsystems Router	87
+f5fd0ec3afebf24060f19db6e5aa0372	1,28,3,43,128,131,144,157,188,191,205,219,223,232,247,251,58,59	VoIP Device/Nortel VoIP/Nortel IP Phone	87
+2e54a7a0f24b40bf6eb4c06ad62ca919	1,2,3,4,5,6,11,12,13,15,16,17,18,22,23,28,40,41,42,43,50,51,54,58,59,60,66,67,128,129,130,131,132,133,134,135	Network Boot Agent/PXE	87
+535152e93ebc04f7306f95729a6d23ae	2,3,6	Xbox 360	50
+95509399a82c281da7319b7cdc3d4c01	3,6,15,112,113,78,79,95,44,47	Operating System/Apple OS/Mac OS X or macOS/Mac OS X	87
+8a43225bde8a77248b458ad4e4e00c9f	58,59,1,28,121,33,3,12,119,15,6,40,41,42,26,17,120,9,7,44,45,47	Datacenter Appliance/VMware vCenter Server Appliance	73
+904f0dadc3cf925103e67f571719e8aa	1,28,3,43,44,46,47,6	Router, Access Point or Femtocell/Router/TP-Link Wireless LAN Router	87
+d1741146dfa778102c2efb5617360b50	1,3,6,12,15,28,42,125	Samsung SMART-TV	50
+12e32964a4a9996245076255e1926f30	1,3,5,6,12,15,44,46,47,155,156,157,158,159,160,161,162,163,164,165,166,167,168,186,187	Audio, Imaging or Video Equipment/IP Camera/Tattile IP Camera	87
+f38236d012acba5b3be983cc9857cd16	66,160,7,54,42,15,6,4,3,2,1	VoIP Device/Spectralink	87
+31acb722c634a5eb878de548a21dcee9	1,3,6,15,33,42,44,45,46,47,69,70,71,74,78,79	Operating System/Apple OS/Mac OS/Mac OS 9	87
+2ebe77e577b2f394569fe1db28c40713	1,3,6,12,15,42,43	VoIP Device/Mediatrix VoIP Adapter	94
+236e83df37a3c463a7972c55cef0ddb1	1,3,6,120	Operating System/Embedded OS/Java ME OS	73
+9d18268b75fcab6f49a0c995900a19b0	1,15,3,6,44,46,47,31,33,121,249,43,0,192,176,112	Operating System/Windows OS/Microsoft Windows Kernel 6.x/Microsoft Windows Kernel 6.1	87
+ec52c950dd503bf12edb385498b6aaa7	1,3,6,15,119,95,252,44,46	Operating System/Apple OS	87
+5ef958528b148b160e7f6935d78236d6	1,3,6,7,12,15,28,40,41,42,225,226,227,228	Router, Access Point or Femtocell/Wireless Access Point/Aerohive WAP	87
+2d38986fceb3356eedac7d267b43b9c6	1,3,6,42,12,15,31,33,43	Point of Sale Device/PCS Revenue Control Systems	87
+b2155371e8c2f112e4a530964ab850db	50,1,3,12,15,51,58,59,6,42,69,70	Projector/NEC Projectors	87
+52417472744907ea79ecbadbafe678cc	1,3,6,15,119,112,113,78,79,95,252	Operating System/Apple OS/Mac OS X or macOS/Mac OS X	87
+b7e0e3c345907e90833741b4b4794da0	58,59,1,28,121,33,3,12,119,15,6,40,41,42,26	Operating System/Linux OS/Gentoo Linux	87
+53396bad1f2b8c1b10f73bf5e36c2f40	1,2,3,6,12,15,28,42,43,66,120,125	VoIP Device/Grandstream VoIP	88
+e1d2a7161f861f3629e6e2b233d7409b	6,3,1,15,66,67,13,43,58,59,42,2,12	Monitoring and Testing Device/APC/APC UPS	87
+1782b667684970c18a491f29cbfcc688	1,42,4,6,11,3	Datacenter Appliance/Precision time and frequency reference system	87
+a08c7b70414fc797485298dbc9e150ef	1,15,3,6,44,46,47,31,33,249,43	Operating System/Windows OS/Microsoft Windows kernel 5.x/Microsoft Windows Kernel 5.1,5.2	87
+0e7e247572fbe0349e930aea480fb6ae	1,33,3,6,15,28,51,58,59,119	Operating System/Google OS/Android OS	87
+abb25c84fe73fa60eaca2516e14e142f	1,28,3,15,6,12,44,78,79,2,42	Printer or Scanner/Xerox Printer	87
+e8dd61058f9de98d0cd0da9ae1946da0	1,3,6,15,33,43,44,46,47,121,249	Router, Access Point or Femtocell/Router/TP-Link Wireless LAN Router	87
+2d384c642fe2a6388ba2e1b22cd21d5f	1,28,2,121,15,6,12,40,41,42,26,119,3,121,249,33,42	Operating System/Linux OS/Debian-based Linux	87
+2f16c3781ff976d98eff96861c1215a8	1,3,6,12,15,17,28,40,41,42	Nokia	50
+372295443d05372967f2a18a29a0fc76	1,28,1,3,43,128,131,144,157,188,191,205,219,223,232,247,251,58,59	VoIP Device/Nortel VoIP/Nortel IP Phone	87
+d5174b480183ef8d99c37894f0d1ad15	85,86	Network Boot Agent/Novell Netware Client	87
+7efd10f3fdc450d1d16e76864cb3fa7c	1,3,15,6	Playstation 2	50
+356c0947a2a7d0b1523bd9124cabb900	1,15,3,44,46,47,6	Operating System/Windows OS/Microsoft Windows Kernel 4.x/Microsoft Windows Kernel 4.0	87
+87003bdce67c065b13e729f4caa7748d	1,3,6,12,15,28,66	VoIP Device/Grandstream VoIP/GrandStream HandyTone 503 ATA	87
+a1e8259c942611cc3db8f280a7db3f9b	1,28,2,3,15,6,119,12,44,47,26,121,42,121,249,33,252,42	Operating System/Linux OS/Debian-based Linux	87
+f6f4abef1302d62686219ea250393591	1,2,4,3,12,6,15,44,43,161,162,184,185,186,192,187,181,182,188,190	Thin Client/Wyse Technology Thin Client	87
+2e7bbb9d24a3d81f92620585f72068fd	1,2,3,6,12,15,17,23,28,29,31,33,40,41,42,43,72	Audio, Imaging or Video Equipment/Video Equipment (Smart TV, Smart Players, etc.)/Amino	87
+99b18e7cddac662b5a73b659201a8bab	1,3,12,43,17,128,129,130,150	Network Boot Agent/Etherboot/gPXE	87
+f712b8444d11ba600c6edf735a388ae8	1,3,6,15,42,66,51,150	VoIP Device/Cisco VoIP/Cisco IP Phone	87
+8b6ddb93a1ab882d04b88de876510b3e	1,28,2,3,15,6,12,4,7,23,26,43,50,51,54,55,60,61,72	Router, Access Point or Femtocell/Router/Gemtek Wireless Router	87
+9642a934b07f3c535142409d5737f25c	1,28,2,3,15,6,43	Router, Access Point or Femtocell/Wireless Access Point/Aruba WAP	87
+ce98151e46bdddec5ad01bc2cea4f1ef	1,3,6,15,119,95,252,44,46,47,101	Operating System/Apple OS	87
+6c9f13601fcd214fd321a32b9cbe2243	6,3,1,15,66,67,13,44,12,43,58,59,42,2	Monitoring and Testing Device/APC/APC-Schneider Uninterruptible Power Supply	87
+8ee1243f3c15e72fb1b135f896eb1f39	1,2,3,5,6,12,15,19,28,33,40,41,64,65	Operating System/Other OS/Solaris/Solaris 8 (SunOS 5.8)	87
+d36ccb241c1fed5d812c1feedaa75989	1,28,3	VoIP Device/Nortel VoIP/Nortel IP Phone	87
+056da8dd4360c7151019a5bcf27adf23	54,51,58,59,1,3,6,15,28,139	VoIP Device/UniData IP Phone	87
+5d0c9f08551fd4e4072640216c5b9864	1,3,6,12,42,44,51,54,58,59,128,66,120,129,130,131,132,133,134,135,224,138,125,43	VoIP Device/Mitel IP Phone	88
+9b3c4adefb5dd797173e770db49a3cb6	1,28,3,15,6,12,81,44,46,78,79,116,66,67,2,69,42,58,59,119,252	Printer or Scanner/Xerox Printer	87
+f66d524cc520c65283d627532514b07c	1,3,6,15,44,46,47	Operating System/Windows OS/Windows Phone OS	83
+ff6f66931e4983c0c53c2fcd422c72e1	1,66,6,15,44,3,67,12,33,150,43,125	Router, Access Point or Femtocell/Wireless Access Point/Cisco WAP	87
+95f55b3287ead1a4a889f6bcba94ac1d	1,3,28,58,59,6,15,78,79,44,46,69,66,67,12	Printer or Scanner/Xerox Printer	87
+47bd43caed4860dfc81383295818371a	1,3,6,10,12,14,15,28,40,41,42,87	Router, Access Point or Femtocell/Router/Zioncom Wireless Router	87
+f18cdf136219402fd37afcb7b33d3117	1,28,66,6,15,3,35,150	VoIP Device/Cisco VoIP/Cisco IP Phone	87
+3ef815416f775098fe977004015c6193	85	Network Boot Agent/Novell Netware Client	87
+43ffcbaa51f7497e90bf1e34dfa96f35	1,3,6,15,12,44	Video Conferencing/Polycom Video Conferencing/Polycom VSX 3000	87
+1babbc65645e99ae4d6714c74f9043d9	1,121,33,3,28,51,58,59	HTC Android	50
+8c648a3a5ff9aa4fbc1371f6eb6018d6	3,1,15,44,12	Printer or Scanner/HP Printer	87
+eea0590f4e15ae33800a86a5c054da18	60,43	Operating System/Apple OS/Mac OS X or macOS/Mac OS X	87
+c84495c51422c3c79d4fa0b1d32e6dd3	3,1,6,15	Router, Access Point or Femtocell/Router/Netgear Router	87
+80708b6d63237b86b49b88873508f400	1,3,15,6,44,46,47	Operating System/Windows OS/Microsoft Windows Kernel 4.x/Microsoft Windows Kernel 4.0	87
+412a88ade3f2a0c592afee514fe182cf	1,28,3,121,26,12,15,119,6,40,41,87,85,86,44,45,46,47,42,121,249,33,252,42	Operating System/Linux OS/Debian-based Linux	87
+f317d57d5822b8c840b606bda3148498	1,3,6,12,15,26,28,40,41,42,43	VoIP Device/NetCODEC Co VoIP	87
+5128f4c4661acd4d27dff1ab26cd4f08	1,15,3,6,44,46,47,31,33,43,77	Operating System/Windows OS/Microsoft Windows Kernel 4.x/Microsoft Windows Kernel 4.90	87
+bf69b863a78c82f19c9536879c517e86	6,3,1,15,12,42	Samsung Android	50
+d9bc916ae5f33fd9fc337c704061c55a	1,3,12,43	Network Boot Agent/Etherboot/Sun Blade 100	87
+bcdcadd6ba99dde710b1cc24ff0aebb6	58,59,1,28,121,33,3,12,119,15,6,40,41,42,26,17,120	VoIP Device/Biamp devices	57
+82ea225d3d3c9dd3a4801f92d2bb25a1	1,3,6,15,7,44,51,54,58,59,12,69	Hardware Manufacturer/SEH COMPUTERTECHNIK GMBH	87
+6384bfdfdcea889294dea8e37a2a8d9a	1,3,6,12,15,17,23,28,29,31,33,40,41,42,44	Storage Device/Synology NAS	87
+6035b6dcb4637d7c32d735255ee36e91	1,3,15,6,44	Printer or Scanner/Kyocera Printer	87
+1b6e1dc8e520125cf3c0cb192302846f	1,2,3,6,12,15,28,42,43,66,125	VoIP Device/Grandstream VoIP	87
+4857fe0b7f178863b502a39de6f861af	1,28,160,66,43,3,4,42,2,6,15	VoIP Device/Polycom VoIP/Polycom Conference IP Phone	87
+560ecc1dc513b437a62e473db0f230e0	3,6	Gaming Console/Microsoft Gaming Console/Xbox	87
+120c61da395411f35eb418525fbbfc49	1,28,156,4,3,66,42	VoIP Device/ShoreTel IP Phone	87
+fb7612836cf15b77145b541eef4bfc4d	1,3,42,6,7,15,58,59,44,66	VoIP Device/Sipura VoIP Adaptor	87
+610d451bb13b2767fbe65de65f870a18	1,6,15,44,3,33	Switch and Wireless Controller/Cisco Switches/Cisco Catalyst 35xx	87
+7ecb676302cd740699e046de33687302	1,15,3,6,44,46,47,31,33,121,249,43,0,176,112	Operating System/Windows OS/Microsoft Windows Kernel 6.x/Microsoft Windows Kernel 6.1	87
+070c3cf1a676ffe467159f3cb75f8184	1,150,3,6,15,35,66	Operating System/Google OS/Android OS	87
+37e151d43203def5aa5946fb049df32f	1,3,4,6,12,15,17,23,28,29,31,33,40,41,42	Audio, Imaging or Video Equipment/IP Camera/ACTi Corporation IP Camera	87
+90cb86802a18db0c49a58b58c63edef0	1,15,3,6,44,46,47,1,3,6,15,44,46,47	Router, Access Point or Femtocell/Router/Cisco/Linksys Router	87
+09ee4037bb4e6dfd4a167c2938e19364	1,3,42,6,7,15,58,59,44,66,150,2,151	VoIP Device/Cisco VoIP/Cisco/Linksys SPA series IP Phone	87
+4d4ce239e75304e47fecd82c48801fcd	1,121,3,6,12,15,28,33,43	Router, Access Point or Femtocell/Router/Netgear Router	87
+41bd65643374639d0a9cbeb920bba2de	6,3,1	Router, Access Point or Femtocell/Router/Cisco/Linksys Router	87
+e4b4e1563f0179ce850f54919278966e	1,3,6,15,51,58,59,255	Router, Access Point or Femtocell/Router/Freebox Wireless Router	87
+60189fa092724f0650e7d1a551d7d177	6,3,1,15,44,12	Printer or Scanner/HP Printer	87
+e3031186cde5a9c2abf3cd19dce5d625	1,33,3,6,28,51,58,59	Operating System/Google OS/Android OS	87
+ea2154e1a4be1ba8cc862d49ae188adf	1,121,33,3,6,12,15,28,51,58,59,119	Operating System/Google OS/Android OS	87
+a287a44cb2c343f196e0daed069d734f	1,3,6,58,59,44,46,47	Printer or Scanner/Tally Printer	87
+f52dbb73a7fd6cb178be99c466c2aed8	1,28,1,3,6,42,66	VoIP Device/Aastra VoIP	87
+ef169c6aa735f58759b8ad48b813f47e	1,3,3,5,6,11,12,13,15,16,17,18,43,54,60,67,128,129,130,131,132,133,134,135	Network Boot Agent/PXE	87
+607caf801b644c3bd922db0e9865138e	1,3,4,6,15	Internet of Things (IoT)/Alps Electric	87
+1319fb44b0613dc4ce822c4357b47044	1,3,42,6,7,15,58,59,66	VoIP Device/Linksys PAP VoIP	87
+750e824b315765490e73cf8adf96db83	1,121,33,3,6,12,15,26,28,51,54,58,59,119,252	Operating System/Google OS/Chrome OS	87
+f49a8ea3c9d6a04f4c2f523c7ff6d380	1,121,33,3,6,15,28,44,51,58,59,119	Phone, Tablet or Wearable/Generic Android/Motorola Android	87
+5026b355656f9ce34620b751b27301e8	1,15,3,6,44,46,47,31,33,121,249,252,43	Operating System/Windows OS	87
+1f5e2ddd680d2a6b37b33ef295d6718b	1,15,3,6,44,46,47,31,33,43	Operating System/Windows OS/Microsoft Windows kernel 5.x/Microsoft Windows Kernel 5.0	87
+c0ba1956c8a39663bbca1a96eb391699	1,28,3,15,6,12,44,78,79,66,67	Printer or Scanner/Xerox Printer	87
+98a6a3042aeae3007a833ba32bb62b94	1,28,6,5,3,44,15	Router, Access Point or Femtocell/Wireless Access Point/Trendnet WAP/Trendnet Access Point	87
+f6f9310f8088ea378b7e3cdba3fb5c75	1,28,3,99,43,128,131,144,157,188,191,205,219,223,224,227,230,232,235,238,241,244,247,249,251,254,58,59,66,6,15	VoIP Device/Nortel VoIP/Nortel IP Phone	87
+71f173e75832a07b526c39f9ee79093e	1,3,6,15,70,69	Point of Sale Device/Moneris HiSpeed 3100IP	87
+5dd6695066a733b15c14e7727e0504e4	1,6,15,44,3,7,33,150,43	Router, Access Point or Femtocell/Wireless Access Point/Cisco WAP	87
+a3af1cfc7f3d84757bfd89502dc842ac	1,3,4,42,6,7,12,15,26,44,51,54,58,59,190	Printer or Scanner/Lexmark Printer	87
+179e34c753bf3c742c07e9d8d22c6ece	1,3,121,6,12,15,28,50,33	Router, Access Point or Femtocell/Router/Belkin Wireless Router	87
+a8342db66dcab3209f1b5bb48d40c78d	1,28,3,43,128,131,144,157,188,191,205,219,223,232,247,251,58,59,66,6,15	VoIP Device/Nortel VoIP/Nortel IP Phone	87
+b65635778cde45b83e18c21ad7efdbee	3,6,26,28,58,59	Gaming Console/Nintendo Gaming Console/Nintendo Gamecube	87
+6a3b43006c293765119851f8fb24b10c	1,3,6,15,44,47	Printer or Scanner/Canon Printer	87
+ea5dbe3d3b68c710bb45fecd0484e42c	15,3,6,44,46,47,31,33,43	Operating System/Windows OS/Microsoft Windows kernel 5.x/Microsoft Windows Kernel 5.0	87
+7e1142cabda50c38346a8fd02e6d091b	78,79,85	Network Boot Agent/Novell Netware Client	87
+501c3e5efb01269235a0218415bbcd61	1,33,3,6,15,26,28,51,58,59	Operating System/Google OS/Android OS	87
+8ebfc38441463ae19afd0760e614f471	15,3,6,44,46,47,31,33,43,252	Operating System/Windows OS/Microsoft Windows kernel 5.x/Microsoft Windows Kernel 5.0	87
+d81ebf5cd834bfbe57d8618bcd1c46e6	6,1,3,12,44,15	Video Conferencing/Polycom Video Conferencing/Polycom ViewStation	87
+240ab504d4ba6808c9e284b5963f3e9d	1,2,3,4,6,7,12,15,28,42,66,67,43,120	VoIP Device/Yealink VoIP	88
+c96325987eb2f097e692967507893402	1,3,6,42,43,2,66	VoIP Device/Aastra VoIP	87
+4c1b2e0e0dacf5e0fcc3279bd00f5e90	15,3,6,44,46,47,31,33,249,43,252,12	Operating System/Windows OS/Microsoft Windows kernel 5.x/Microsoft Windows Kernel 5.1,5.2	87
+bcd53c324e6ef0b56f5a33ede6aa2e15	1,3,67,43,60	Network Boot Agent/Apple Netboot	87
+474846f826c15e1695321d0112186825	1,28,66,3,4,42,2,6,15	VoIP Device/Polycom VoIP/Polycom SoundPoint IP/Polycom SoundPoint IP 430	87
+3cf3c8556a99ede5bfe455e383ceeaa5	1,3,6,15,28	Hotway LanDrive	50
+9e60ff3c17459791c30853469ed2a3e2	51,1,3,58,59,12,44,54,6,15,144	Printer or Scanner/Xerox Printer	87
+5246276c06be9f4731c4afd413b43d9e	6,3,1,15,66,67,13,12	Printer or Scanner/HP Printer	87
+52de03af47671e7f69bd3b81bbbb4655	1,66,6,3,67,12,150	Switch and Wireless Controller/Cisco Switches/Cisco Catalyst 29xx	87
+b422effb8fe4450ebd9ea00fb6b0e2f5	1,15,3,6,44,46,47,43,77,252	Operating System/Windows OS/Microsoft Windows Kernel 4.x/Microsoft Windows Kernel 4.10	87
+2600c1dffe2246b6c99c53fd85ab74a1	1,28,54,58,59,60,43,3	VoIP Device/Alcatel IP Phone/Alcatel Advanced Reflex IP Phone	87
+92db395887b52bf6a12e48962ebe5767	1,3,6,15,67,43,60	Operating System/Apple OS	87
+5bd3c198753efaf887b913988d96129c	1,28,2,3,15,6,12,40,41	Operating System/Linux OS/SUSE Linux/Novell Desktop	87
+f10d1ad0c054452d0b6c190405c5b7ad	1,28,3,43,128,131,144,157,188,191,205,219,223,224,227,230,232,235,238,241,244,247,249,251,254,58,59,66	VoIP Device/Nortel VoIP/Nortel IP Phone	87
+e54c326dffda1ce600a4fdb7b860821f	3,1,6,12,15,67,66,43	VoIP Device/Sunrocket VoIP Gizmo	87
+db2179ac0fd92f683be3929bc588ea63	1,15,3,6,44,46,47,31,33,121,249,43,0,128,64	Operating System/Windows OS/Microsoft Windows Kernel 6.x/Microsoft Windows Kernel 6.0	87
+9fe07f8dac53006ae466d8b166af00df	79,78	Network Boot Agent/Novell Netware Client	87
+8193b413c72fe24c54164273b9284eb4	6,3,1,15,66,67,13,44,12,81,252	Printer or Scanner/HP Printer	87
+8e9678987e153c33946b9a4799f6b960	1,121,33,3,6,12,15,28,42,51,54,58,59,119	Operating System/Linux OS/Generic Linux	87
+39c10a5965989e867a6c844c0cf2c933	1,3,6,15,44,46,47,137,215,224,226	Thin Client/Neoware Capio Windows CE	87
+128c5415f12642e1ebd9069e0240f5ac	1,28,2,121,15,6,12,40,41,42,26,119,3,121,249,252,42	Operating System/Linux OS/RedHat/Fedora-based Linux/Fedora/Fedora 15 or 16 based distro	87
+d79d7e585f563526303eb23e3fcdd8c6	1,3,28,6,15	Gaming Console/Sony Gaming Console/Playstation/Playstation 3 or Playstation Portable (PSP)	87
+756dedfa6418b44fd4d75eab28633903	1,249,3,6,12,15,28,33,40,41,42,44	Router, Access Point or Femtocell/Router/Trendnet Wireless Router	87
+c5eee0dd497045c110852cb7b6fa753e	1,3,6,12,42,44,51,54,58,59,128,66,120,129,130,131,132,133,134,135,224,138,125,43,225,226	VoIP Device/Mitel IP Phone	88
+c9d0f3c75aab4a5fd651396f19695536	1,3,6,15,112,113,78,79	Operating System/Apple OS/Mac OS X or macOS/Mac OS X	87
+1154651b76bbca7528e891d016f285d0	85,86,87	Network Boot Agent/Novell Netware Client	87
+181be29e0dc8e72cc88c0e2c16dcaa25	1,15,3,6	Phone, Tablet or Wearable/Apple Mobile Device/Apple iPod	87
+120c4b86573fa69b00d4964c476fd9ea	1,3,4,43	Switch and Wireless Controller/HP ProCurve Switches	87
+6de0791c5bea2e7e731d870a38ee7484	1,28,2,3,15,6,12,40,41,42,26	Operating System/Linux OS/RedHat/Fedora-based Linux	87
+900a8b4bff9d01f70b8251ca79df7a7e	1,3,5,6,49,13,15,17,23,28,42,50,51,53,54,56,66,67	Samsung S8500	50
+ce3023d99364ab9eab8a859e3c11de1c	1,28,2,3,15,6,12,46,44	Operating System/Linux OS/Linspire	87
+70c995f77f0cc2c4d4d9e668d5eb61c3	1,3,6,15,28,44,47	Printer or Scanner/Ricoh Printer/Ricoh Multifunction Printer	87
+5fafd12fdcc66083453eb4b9662ef260	1,3,44,6,7,12,15,22,54,58,59,69,18,43,119,81,153,154	Printer or Scanner/HP Printer	87
+8848fb2507c53c29cb3ea21945c78851	1,3,6,12,15,23,28,29,31,33,40,41,42,9,7,200,44	Operating System/Linux OS/Generic Linux	87
+82754f446d62c6084f2884fb8a08013f	1,3,6,15,23,51,54	Audio, Imaging or Video Equipment/Motorola NIM100	87
+8c3ba7572dfa8b528fb6da9bf697b1c0	1,3,6,12,15,28,42,40	Printer or Scanner/Epson Printer	87
+95ba59cd30a82c55cf80a08ce8913723	1,28,2,3,15,6	Barnes and Noble Nook (eReader)	50
+ff2c3ed9d86555e5da986d6b2e1b9cea	1,15,3,6,44,46,47,66,1,3,6,15,44,46,47	Router, Access Point or Femtocell/Router/Cisco/Linksys Router	87
+5283df9f4f74046fbdecbb336d949f2d	1,2,3,6,12,15,26,28,85,86,87,88,44,45,46,47,70,69,78,79	Printer or Scanner/Xerox Printer	87
+84e7a01b19614377e492037697763b97	1,28,2,3,15,6,12,44,47	Operating System/Linux OS/Debian-based Linux	87
+6f52e2e10dda39249c323b624c10cac7	15,3,6,44,46,47,31,33,249,43,252	Operating System/Windows OS/Microsoft Windows kernel 5.x/Microsoft Windows Kernel 5.1,5.2	87
+81c6dbe08aa8108bc53861f3173760c3	1,33,3,6,12,15,28,42,51,58,59,119	Operating System/Google OS/Android OS	87
+4b9223500d4718ca1db44c1ed038fb6c	28,2,3,15,6,12,40,41,42	Operating System/Linux OS/RedHat/Fedora-based Linux	87
+8d51fdfb93ad30bdf7f2ed5fd0776041	1,3,6,15,66,69,43,176	VoIP Device/Avaya IP Phone	87
+9f96da28067889e6af2fc153aaa2cb77	1,28,2,121,15,6,12,40,41,42,26,119,3,121,249,42	Operating System/Linux OS/RedHat/Fedora-based Linux/RHEL 6.4 or Centos6.4	87
+3469b3a9a87612c02c145b9c149dae9d	1,3,44,6,7,12,15,22,54,58,59,69,18,144,119	Printer or Scanner/HP Printer	87
+44732e1c8c0d27e4edde8ef6a956d42d	1,3,6,15,12,69,70,88,42	Monitoring and Testing Device/APC/NetBotz WallBotz 400C	87
+94e012fde4dc733f96d9620627791941	1,3,6,12,15,28,33,51,58,59,119,121	Operating System/Google OS/Android OS	87
+a09f97325d185b4313f0e598624e513c	1,3,6,12,15,17,23,28,29,31,33,40,41,42,119	Operating System/Linux OS/Gentoo Linux	87
+5831bce2248e5970c993adb9260eec96	1,3,66,67,54,129,150,131,132,6,15,100	Switch and Wireless Controller/Cisco Switches/Cisco Small Business	87
 ad1aa9adc33a26c68ada0785b2e639d1	1,15,3,6,43	Router, Access Point or Femtocell/Wireless Access Point/Enterasys WAP/Enterasys or Trapeze Wireless Access Point	87
 7fa15642c7d22c817a6a614068a85afa	3,51,1,15,6,66,67,120,44,43,150,12,7,42	Switch and Wireless Controller/Juniper Switches	73
 9b1ee9aff3eb29371efe446ac89e5c3f	1,3,6,15,26,28,51,58,59,43	Operating System/Google OS/Android OS	87
