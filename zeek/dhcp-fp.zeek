@@ -19,7 +19,7 @@ export {
         };
    
     # Define location of dhcp-db.txt, put dhcp-db.txt in a location that can get dynamically updated like your intel feeds.
-    #global dbfile : string = "/usr/local/zeek/share/zeek/site/kyd/dhcp-db.txt" &redef;
+    # global dbfile : string = "/usr/local/zeek/share/zeek/site/kyd/dhcp-db.txt" &redef;
     global dbfile : string = "dhcp-db.txt" &redef;
 }
 
@@ -53,7 +53,7 @@ event bro_init()
 @endif
 {
     Input::add_table([$source=dbfile, $name="DHCPDB",
-                      $idx=Idx, $val=Val, $destination=DHCPDB, $mode=Input::MANUAL]);
+                      $idx=Idx, $val=Val, $destination=DHCPDB, $mode=Input::STREAM]);
     
     Input::remove("DHCPDB");
     
