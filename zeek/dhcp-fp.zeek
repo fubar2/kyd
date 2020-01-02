@@ -19,7 +19,7 @@ export {
         };
    
     # Define location of dhcp-db.txt, put dhcp-db.txt in a location that can get dynamically updated like your intel feeds.
-    global dbfile : string = "/usr/local/share/zeek/site/kyd/dhcp-db.txt" &redef;
+    global dbfile : string = "/usr/local/zeek/share/zeek/site/kyd/dhcp-fp.zeek" &redef;
 }
 
 type DHCPFPStorage: record {
