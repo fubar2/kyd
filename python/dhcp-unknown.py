@@ -50,6 +50,7 @@ def queryFingerbank(file_dic, key, proxy):
 	else:
 		proxies = {'http': proxy}
 	writeme = []
+	nrec = 0
 	for (hash, fp) in file_dic.items():
 		data = '{"dhcp_fingerprint":"' + fp + '"}'
 		resp_dic[hash].append(fp)
