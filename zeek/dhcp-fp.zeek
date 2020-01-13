@@ -16,6 +16,7 @@ export {
         DHCPclient: string &log;
         DHCPhash: string &log;
         param_list: string &log;
+        DHCPmac: string &log;
         };
    
     # Define location of dhcp-db.txt, put dhcp-db.txt in a location that can get dynamically updated like your intel feeds.
@@ -26,6 +27,7 @@ type DHCPFPStorage: record {
         DHCPhash: string &default="";
         DHCPclient: string &default="";
         param_list: string &default="";
+        DHCPmac: string &default="";
 };
 
 type Idx: record {
@@ -81,7 +83,7 @@ event dhcp_message(c: connection, is_orig: bool, msg: DHCP::Msg, options: DHCP::
                 if( options?$param_list && |options$param_list|>0)
                 {
                         local h = md5_hash_init();
-
+						c$dhcpfp$DHCPmac = msg$chaddr;
                         s1 = sub(cat(options$param_list),/\[/,"");
                         s2 = sub(s1,/\]/,"");
                         s3 = subst_string(s2," ","");
@@ -99,7 +101,7 @@ event dhcp_message(c: connection, is_orig: bool, msg: DHCP::Msg, options: DHCP::
                         {
                                 c$dhcpfp$DHCPclient = "Unknown";
                         }
-                        local rec: DHCPFP::Info = [ $ts=c$start_time, $conn_uid=c$uid, $c_id=c$id , $c_history=c$history, $DHCPclient=c$dhcpfp$DHCPclient, $DHCPhash=c$dhcpfp$DHCPhash, $param_list = c$dhcpfp$param_list];
+                        local rec: DHCPFP::Info = [ $ts=c$start_time, $conn_uid=c$uid, $c_id=c$id , $c_history=c$history, $DHCPclient=c$dhcpfp$DHCPclient, $DHCPhash=c$dhcpfp$DHCPhash, $param_list = c$dhcpfp$param_list,$DHCPmac = c$dhcpfp$DHCPmac];
                         Log::write( DHCPFP::LOG, rec);
                 }
         }
